@@ -105,7 +105,7 @@ uyan_uid: false
 # 是否使用 gitment，https://github.com/imsun/gitment
 gitment: 
    owner: ChangZihao
-   repo: https://github.com/ChangZihao/Blog-comment.git
+   repo: Blog-comment.git
    client_id: c0a769bb43098db674d4
    client_secret: 50bd49d5ff958da3f7c17db117ccbc60c6b24d5e
 
