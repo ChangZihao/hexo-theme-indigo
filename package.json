@@ -15,5 +15,10 @@
   "repository": {
     "url": "git+https://github.com/yscoder/hexo-theme-indigo.git",
     "type": "git"
+  },
+  "dependencies": {
+    "hexo-generator-feed": "^1.2.2",
+    "hexo-generator-json-content": "^3.0.1",
+    "hexo-renderer-less": "^0.2.0"
   }
 }
