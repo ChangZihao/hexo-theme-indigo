@@ -132,7 +132,7 @@ title_change:
   leave: 页面崩溃了，快回来！
 
 # 设置为 true 发布后将使用 unpkg cdn
-cdn: true
+cdn: false
 
 # 设置为 true 将使用 lightbox render 图片
 lightbox: true
