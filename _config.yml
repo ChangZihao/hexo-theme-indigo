@@ -15,9 +15,9 @@ menu:
     url: /archives
   tags:
     url: /tags
-  th-list:
-    text: Categories
-    url: /categories
+  #th-list:
+  # text: Categories
+  # url: /categories
   github:
     url: https://github.com/changzihao
     target: _blank
@@ -32,7 +32,7 @@ avatar_link: /
 # 头像背景图
 brand: /img/brand.jpg
 # favicon
-favicon: /favicon.ico
+favicon: /img/favicon.ico
 
 # email
 email: changzihao17@mails.ucas.edu.cn
@@ -89,7 +89,7 @@ tajs: false
 
 # google
 google_analytics: false
-google_site_verification: false
+google_site_verification: 20upjTQOdgISFY-1CQwe5qpfxVSl9gwVHdzK_kCyipo
 
 # less
 less:
@@ -103,22 +103,22 @@ disqus_shortname: false
 # 是否开启友言评论, 填写友言用户id
 uyan_uid: false
 # 是否使用 gitment，https://github.com/imsun/gitment
-gitment: 
-   owner: ChangZihao
-   repo: Blog-comment
-   client_id: 38962dd81493c63dc7ac
-   client_secret: 39abb3abdab52809d3324ac4e2bc17afc20311cb 
+#gitment: 
+#   owner: ChangZihao
+#  repo: Blog-comment
+#  client_id: 38962dd81493c63dc7ac
+#  client_secret: 39abb3abdab52809d3324ac4e2bc17afc20311cb 
 
 # Valine Comment system. https://valine.js.org
 valine:
-  enable: false # 如果你想使用valine，请将值设置为 true
-  appId:  # your leancloud appId
-  appKey:  # your leancloud appKey
+  enable: true # 如果你想使用valine，请将值设置为 true
+  appId: V3f0lbQWh1loif1riAYvWpp8-gzGzoHsz  # your leancloud appId
+  appKey: bDPEGe6TJLHTero7DDITTsiM  # your leancloud appKey
   notify: false # Mail notify
   verify: false # Verify code
   avatar: mm # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
   placeholder: Just go go # Comment Box placeholder
-  guest_info: nick,mail,link # Comment header info
+  guest_info: nick,mail # Comment header info
   pageSize: 10 # comment list page size
 
 
@@ -130,7 +130,7 @@ valine:
 canonical: false
 
 # 版权起始年份
-since_year: 2015
+since_year: 2017
 
 # 用户页面中作者相关的描述性文字，如不需要设为 false
 about: 用户页面中作者相关的描述性文字，如不需要设为 false
