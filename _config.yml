@@ -92,6 +92,9 @@ tajs: false
 google_analytics: false
 google_site_verification: 20upjTQOdgISFY-1CQwe5qpfxVSl9gwVHdzK_kCyipo
 
+# sogou站长验证 http://zhanzhang.sogou.com/
+sogou_site_verification: false
+
 # less
 less:
   compress: true
@@ -122,6 +125,9 @@ valine:
   guest_info: nick,mail # Comment header info
   pageSize: 10 # comment list page size
 
+# 是否开启Hyper Comments，填写id则启用，false则禁用。http://hypercomments.com
+# Hyper Comments support. Write your id here, or false to disable
+hyper_id: false
 
 
 # 规范网址
