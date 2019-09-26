@@ -113,6 +113,13 @@ uyan_uid: false
 #  client_id: 38962dd81493c63dc7ac
 #  client_secret: 39abb3abdab52809d3324ac4e2bc17afc20311cb 
 
+# use gitalk://github.com/gitalk/gitalk
+gitalk: false
+#  owner: 
+#  repo: 
+#  client_id: 
+#  client_secret: 
+
 # Valine Comment system. https://valine.js.org
 valine:
   enable: true # 如果你想使用valine，请将值设置为 true
